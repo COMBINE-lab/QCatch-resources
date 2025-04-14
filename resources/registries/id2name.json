@@ -1,13 +1,17 @@
 {
-  "7Tn1lP7lOdoyz8Tv8fFjoUmgXk90unjo" : {
-    "species" : "human",
-    "label" : "CellRanger 2020-A",
-    "url" : "https://umd.box.com/shared/static/9iaj4va07p8ajb7b3isnm9cwpbcywu14"
-
+  "7Tn1lP7lOdoyz8Tv8fFjoUmgXk90unjo": {
+    "species": "human",
+    "label": "CellRanger 2020-A",
+    "url": "https://umd.box.com/shared/static/ubmff409mrxkyk4u0g97434zczfhau1r"
   },
-  "QB_VKeL9pVvRDD0udDRidpXqA2Qj0QHS" : {
-    "species" : "mouse",
-    "label" : "CellRanger 2020-A",
-    "url" : "https://umd.box.com/shared/static/lodqzh4jzuwh5yeudbbih2zko5tdemlk"
+  "QB_VKeL9pVvRDD0udDRidpXqA2Qj0QHS": {
+    "species": "mouse",
+    "label": "CellRanger 2020-A",
+    "url": "https://umd.box.com/shared/static/93pmxf0u7ci0kga4v150r052m5iqxb2e"
+  },
+  "hgPbhqwz7CxY_VkHajOGHglAJdFR7u0K": {
+    "species": "human",
+    "label": "CellRanger 2024-A",
+    "url": "https://umd.box.com/shared/static/q6khukyj1s56lhrusw3viymf3v8zi7er"
   }
 }
